@@ -1,5 +1,7 @@
 console load Celeste/1-ForsakenCity 6
    1
+
+#Start
   36
 
 #lvl_6
@@ -205,4 +207,3 @@ console load Celeste/1-ForsakenCity 6
    1,S
    2,D
    1,J,F,180
-  31

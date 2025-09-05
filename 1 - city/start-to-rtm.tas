@@ -1,8 +1,9 @@
 console load Celeste/1-ForsakenCity
    1
+#Start
+  88
 
 #lvl_1
-  88
    1,R,C,O
    8,R,J,C,O
    2,R,J,O
@@ -19,7 +20,9 @@ console load Celeste/1-ForsakenCity
    5,U,K,C,O
    4,U,C,O
    3,C,O
-  40
+   5,C
+  33
+   2,R,J
 
 #lvl_2
    1,J,O
@@ -31,12 +34,13 @@ console load Celeste/1-ForsakenCity
    3,R
    3,R,D
   21,D
-  19,R,D
-  10,R
+   7,R,D
+   7,D
+  17,R
   10,R,C,O
   16,R,D
-  12,R
-  17,R,J,O
+  16,R
+  15,R,J,O
    8,R,J,C,O
    1,R,C,O
    4,R
@@ -139,12 +143,15 @@ console load Celeste/1-ForsakenCity
   10,U,C,O
    3,C,O
    7
-  40,L
+  30
+  10,L
 
 #lvl_5 (0)
-  11,L
-  11,L,U,C,Z
-  40
+   9,L
+  13,L,U,C,Z
+  10,L,U,C
+  20
+  10,L
 
 #lvl_5z
   10,L
@@ -167,8 +174,9 @@ console load Celeste/1-ForsakenCity
   10,L
   15,L,D
   27,D
-  30,R,D
-   6,R
+  20,R,D
+   6,D
+  10
   12,R,C,O
    6,R
   14,R,C,O
