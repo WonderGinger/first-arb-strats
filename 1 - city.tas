@@ -1,9 +1,8 @@
 console load 1
    1
-  36
 
 #Start
-Read start-to-rtm Start
+Read, 1 - city/start-to-rtm, Start
 
 #Reenter City
 Read,LoadA,0,Control
@@ -18,7 +17,7 @@ Read,LoadA,0,Control
   46
 Add 1
 
-Read crossing-to-heart Start
+Read, 1 - city/crossing-to-heart, Start
 
 #Overworld
 Add 58
@@ -31,7 +30,7 @@ Add 58
   46
 Add 1
 
-Read heart-to-rtm Start
+Read, 1 - city/heart-to-rtm, Start
 
 #Overworld
 Add 58
@@ -44,4 +43,4 @@ Add 58
   46
 Add 1
 
-Read chasm Start
+Read, 1 - city/chasm, Start

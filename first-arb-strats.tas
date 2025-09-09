@@ -1,35 +1,31 @@
-FileTime: 3:21.960(11880)
+FileTime: 3:20.804(11812)
 #Start
 Read, StartFullGameFile
 
-Read, 0 - Prologue, Start
+Read, 0 - prologue, Start
 
+***S
 Read, LoadANoCollects, Prologue
 
 #City
 Read, 1 - city/start-to-rtm, Start
 
-#Reenter City
-Read,LoadA,0,Control
-   1,L
-   9
-   1,J
-  43
+Add 58
+  51
+   1,S
    1,J
   30
    1,R
+   1,F,90
    1,J
   46
 Add 1
 
 Read, 1 - city/crossing-to-heart, Start
 SaveAndQuitReenter
-  36
 
 Read, 1 - city/heart-to-rtm, Start
 
-
-***S
 Add 58
   51
    1,S
@@ -43,7 +39,13 @@ Add 1
 
 Read, 1 - city/chasm, Start
 
-
-#Sitea
+#Site
 #Read, LoadA
-#Read, 2 - site/2a-arb-ideal, Start
+#Read, 2 - site, Start
+
+Unsafe
+ 240
+Set TASRecorder.BlackFade 1
+  20
+   1,J
+  40
