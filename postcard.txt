@@ -1,0 +1,9 @@
+1. Purpose: demonstrate safe and consistent entry-level all red berries strats
+2. Pay attention to the input display
+3. Any% rooms are not the focus
+4. Check description for more strat info
+
+1. Purpose: demonstrate safe and                              consistent entry-level {#ff1144}all red berries{#} strats{n}
+2. Pay attention to the {#56405E}input display{#}              {n}
+3. Any% rooms are {#d95c04}not{#} the focus                    {n}
+4. Check description for more strat info           {n}

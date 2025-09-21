@@ -1,7 +1,12 @@
-FileTime: 3:20.804(11812)
+FileTime: 3:21.518(11854)
 #Start
 Read, StartFullGameFile
 
+# Checklist
+# timer off
+# Music 1
+# Sound 3
+# Input display ON
 Read, 0 - prologue, Start
 
 ***S

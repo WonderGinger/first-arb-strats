@@ -162,23 +162,22 @@ console load 1 9b
    5,R
    4
    2,L
-   1,L,C,Z
-   5,L,J,C,Z,O
-   2,L,J,O
-  15,L
+  15,L,X
+  14,L
    3,L,C,Z
    8,L,J,C,Z,O
-   4,L,J,O
-  46,L
+  21,L,J,O
+  35,L
 
 #lvl_12z
-   1,L
+   3,L
   13,L,J,O
    4,J,O
-   6,K,G,O
+  10,K,G,O
    4,K,O
-  11,J,G,O
-   2,U,J,G,O
+  15,J,G,O
+  12,K,G,O
+   2,L,U,J,G,O
    1,L,U,J,C,G,O
    9,L,U,J,C,O
    1,L,J,C,O

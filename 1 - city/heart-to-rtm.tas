@@ -124,12 +124,9 @@ console load 1 s1
    3,R,J,C,G,N,O
    2,R,J,G,N,O
    1,R,G,N
-   8
-   1,D
-   6,D,C,O
-   1,C,O
-   6
    8,L
+   1,D
+   1,L
   25,L,J,O
    2,L,U,J,C,O
   10,L,U,C,O
@@ -161,15 +158,12 @@ console load 1 s1
   16,R,U,C,O
    1,R,C,O
    7
-   1,C,Z
-   6,R,C,Z
-  13,R,J,C,Z,O
-   5,R,D,J,O
-   4,R,D
-  23,R
+   1,C
+  14,R,C
+  39,R
 
 #lvl_8zb
-  18,R
+  29,R
    9,R,U,C,Z
    2,R,C,Z
   13,R
@@ -294,7 +288,7 @@ console load 1 s1
    2,R,C,Z
    9,R,J,C,Z,O
    4,R,J,O
-  33,R,D
+  33,R,D,C
 
 #lvl_8b
   22,R,D
@@ -338,27 +332,31 @@ console load 1 s1
    5,L,U,J,G,N,O
    1,L,U,J,G,N
    7,L,U,G,N
-  39,U,G,N
-  10,L,U,J,G,N,O
-   3,L,K,N,O
-   6,L,K,O
-   3,R
+***S
+  41,U,G,N
+   2,R,G,N
+  12,R,J,G,N,O
+   7,R,K,H,N,O
+   1,R,H,N
+   1,H,N
    7
-   4,C,Z
-   3,R,C,Z
-   3,R,J,C,Z,O
-   1,R,J,O
-  13,R
-   2,R,C,Z
-   5,R,J,C,Z,O
-  41,R
+   3,R,D
+   8,R,D,C,O
+   8,R,D
+  12,R,D,C,O
+   4,R,D,J,C,O
+  27,R,D,J,O
+***S
+  19,R,D
 
 #lvl_9b
-  24,R
-   3,R,C,O
-   1,R,U,C,O
+   8,R,D
+***S
+  16,R
+   1,R,U
   10,U,C,O
    3,C,O
+
   10
    1,C,O
   12,L,C,O
