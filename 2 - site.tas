@@ -1,0 +1,15 @@
+console load 2
+   1
+
+#Start
+Read, 2 - site/start, Start
+Read, 2 - site/intervention, Start
+Read, 2 - site/awake, Start
+#3:02.087(10711)
+
+Unsafe
+ 300
+Set TASRecorder.BlackFade 1
+  20
+   1,J
+  40
